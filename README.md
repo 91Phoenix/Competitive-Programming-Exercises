@@ -1,0 +1,2 @@
+# EquilibriumIndex
+competitive programming  exercise
