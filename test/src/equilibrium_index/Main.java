@@ -1,4 +1,4 @@
-package Solution;
+package equilibrium_index;
 
 public class Main {
 

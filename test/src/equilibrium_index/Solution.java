@@ -1,4 +1,4 @@
-package Solution;
+package equilibrium_index;
 
 //you can also use imports, for example:
 //import java.util.*;
